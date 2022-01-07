@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💚 I’m currently learning Android Development
+- 💚 Android Development
 
 
 <div align="left">
